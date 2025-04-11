@@ -1,10 +1,13 @@
+
+
+
 function App() {
+
+
   return (
-    <>
-      <div className="text-4xl mt-4 pt-4 font-bold flex items-center underline justify-center">
-        Prime Creative
-      </div>
-    </>
+  <div className="text-3xl bold flex justify-center items-center h-screen bg-slate-900 text-white">
+ <h2>Prime Creative</h2>
+  </div>
   );
 }
 
